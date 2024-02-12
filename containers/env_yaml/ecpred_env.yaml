@@ -1,0 +1,7 @@
+name: ecpred_wrapper
+channels:
+    - conda-forge
+    - defaults
+    - bioconda
+dependencies:
+    - conda-forge::openjdk=11.0.1
